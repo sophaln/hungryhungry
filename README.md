@@ -14,4 +14,6 @@ Api endpoint: http://hungryhungry.test/api/visibleTables
 
 Display: http://hungryhungry.test/display
 
+Storage: Json file store under /storage/app directory
+
 Test: vendor/bin/phpunit tests/Feature/VisibleTables.php
